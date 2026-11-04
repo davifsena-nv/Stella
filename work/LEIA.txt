@@ -1,0 +1,1 @@
+Pasta usada pelo teste sintético (testar_algoritmo.py).
